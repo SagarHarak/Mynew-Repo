@@ -10,3 +10,6 @@ for bucket_info in bucket_list:
     print("Type of bucket_info is",type(bucket_info))
     print("bucket_info is",bucket_info)
     print("Bucket Name is ",bucket_info['Name'])
+    print("Bucket Name is ",bucket_info['Name'])
+    print("Bucket Name is ",bucket_info['Name'])
+    print("bucket_info is",bucket_info)
