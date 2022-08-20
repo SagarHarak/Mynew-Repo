@@ -1,1 +1,12 @@
-file 1 is created
+On branch master
+Changes not staged for commit:
+	modified:   file1.txt
+
+Untracked files:
+	1.git-commands-D-1.pdf
+	16a.Git-v1.1_Edit.pdf
+	2.git-commands-D2.pdf
+	file1
+	file2
+
+no changes added to commit
